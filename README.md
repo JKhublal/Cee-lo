@@ -1,6 +1,6 @@
 # Cee-lo
 Simple text-based Cee-lo game written in Python
-by Psydungeon Laboratories - 2015
+by Jaime Khublal - 2015
 
 =====KNOWN ISSUES=====
 
